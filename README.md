@@ -1,4 +1,4 @@
 # hello-world
 Learning
 
-Changes in branche-mode. 
+Changes in branch-mode. 
